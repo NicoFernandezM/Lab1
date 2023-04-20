@@ -1,0 +1,18 @@
+Se le pide arreglar un programa que registra los datos de un máximo de 50 personas.
+Los datos que se almacenan son el nombre de la persona, el sexo y la edad (en ese orden).
+Recuerde que no debe sobreescribir a las personas.
+
+El menú debe mostrar las siguientes opciones:
+1) Agregar persona.
+2) Mostrar la cantidad de personas mayores de edad.
+3) Mostrar la cantidad de personas menores de edad.
+4) Mostrar la cantidad de personas de tercera edad.
+5) Mostrar la cantidad de personas según sexo.
+6) Salir.
+
+El programa debe quedar 100% funcional y con buenas practicas de programación (nombres de variables adecuados, uso de métodos, etc...)
+
+Tips:
+1) Arreglar errores de sintaxis primero.
+2) Intentar correr el programa para ver que funcionalidades están fallando.
+3) Separar las funcionalidades en métodos.
